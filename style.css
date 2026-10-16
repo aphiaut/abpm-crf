@@ -61,3 +61,7 @@ header{padding:28px 20px}
 .steps a{font-size:13px}
 }
 
+
+/* จัดกลุ่มประเภทการปรับและจับคู่ชื่อกับวันที่ */
+.field-group{min-width:0;border:1px solid #dce6e2;border-radius:12px;padding:18px;margin:0}
+.field-group>legend{padding:0 8px;color:var(--primary)}
